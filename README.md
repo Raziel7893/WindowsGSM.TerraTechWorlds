@@ -41,7 +41,7 @@
 
 ### Available Settings
 All these params are automatically set by WGSM
-- port=8211                     can be change and working (Change via WGSM settings)
+- port=7777                     can be change and working (Change via WGSM settings)
 - slotCount=MaxPlayers			can be change and working (Change via WGSM settings) 
 - password=""					can be changed by Browse=>ServerFiles=>dedicated_server_config.json
 
