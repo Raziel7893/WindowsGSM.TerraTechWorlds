@@ -24,7 +24,7 @@ namespace WindowsGSM.Plugins
 
         // - Settings properties for SteamCMD installer
         public override bool loginAnonymous => true;
-        public override string AppId => "2321660"; // Game server appId Steam
+        public override string AppId => "2533070"; // Game server appId Steam
 
         // - Standard Constructor and properties
         public TerraTechWorlds(ServerConfig serverData) : base(serverData) => base.serverData = _serverData = serverData;
@@ -46,7 +46,7 @@ namespace WindowsGSM.Plugins
 
         // TODO: Following options are not supported yet, as ther is no documentation of available options
         public string Maxplayers = "16"; // Default maxplayers        
-        public string QueryPort = "7778"; // Default query port. This is the port specified in the Server Manager in the client UI to establish a server connection.
+        public string QueryPort = "7777"; // Default query port. This is the port specified in the Server Manager in the client UI to establish a server connection.
         // TODO: Unsupported option
         public string Defaultmap = "Dedicated"; // Default map name
         // TODO: Undisclosed method

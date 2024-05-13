@@ -26,7 +26,7 @@
 🕹️ https://store.steampowered.com/app/2313330/TerraTech_Worlds/
 
 ### Dedicated server info
-🖥️ https://steamdb.info/app/2321660/
+🖥️ https://steamdb.info/app/2533070/
 
 ### Port Forwarding (YOU NEED THIS, TO BE ABLE TO CONNECT FROM THE INTERNET(only for servers/pcs at home):
 - If You don't know How: Google: YourRouterBrand + Portforwarding ( https://portforward.com/ can also help)
