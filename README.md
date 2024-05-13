@@ -1,6 +1,11 @@
 # WindowsGSM.TerraTechWorlds
 🧩WindowsGSM plugin that provides TerraTechWorlds Dedicated server
 
+
+## To note:
+- for dedicated_server_config.json there are currently only 3 options. If there are more released, feel free to either modify themself or create an Issue on github
+
+
 ## PLEASE ⭐STAR⭐ THE REPO IF YOU LIKE IT! THANKS!
 
 ### WindowsGSM Installation: 
