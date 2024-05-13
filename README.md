@@ -4,7 +4,8 @@
 
 ## To note:
 - for dedicated_server_config.json there are currently only 3 options. If there are more released, feel free to either modify themself or create an Issue on github
-
+- console does not work, you will need to look at the log-file Browse=>ServerFiles=>\TT2\Saved\Logs
+  - without -log param only error will land in console
 
 ## PLEASE ⭐STAR⭐ THE REPO IF YOU LIKE IT! THANKS!
 

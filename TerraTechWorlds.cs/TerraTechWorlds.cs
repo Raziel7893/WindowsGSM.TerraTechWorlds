@@ -36,7 +36,7 @@ namespace WindowsGSM.Plugins
         public string FullName = "TerraTechWorlds Dedicated Server"; // Game server FullName
         public string ConfigFile = "dedicated_server_config.json"; // Game server FullName
 
-        public bool AllowsEmbedConsole = true;  // Does this server support output redirect?
+        public bool AllowsEmbedConsole = false;  // Does this server support output redirect?
         public int PortIncrements = 1; // This tells WindowsGSM how many ports should skip after installation
 
         // - Game server default values
