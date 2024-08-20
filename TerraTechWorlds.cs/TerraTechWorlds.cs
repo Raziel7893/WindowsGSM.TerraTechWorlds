@@ -79,6 +79,7 @@ namespace WindowsGSM.Plugins
                         sb.Append(line);
                     line = sr.ReadLine();
                 }
+                sr.Close();
             }
 
             File.WriteAllText(configFile, sb.ToString());
